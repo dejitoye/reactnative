@@ -1,0 +1,10 @@
+   else {
+// return (
+//   <AppLoading
+//       startAsync = {getFonts}
+//       onFinish = {()=> setFontsLoaded(true)}
+//       />
+// )
+
+    
+//     }
